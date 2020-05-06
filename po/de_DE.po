@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-05 20:21+0000\n"
-"PO-Revision-Date: 2020-05-05 20:28\n"
+"PO-Revision-Date: 2020-05-06 18:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -892,7 +892,7 @@ msgstr "Präsentationsmodus"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:320
 msgid "Print"
-msgstr ""
+msgstr "Drucken"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 msgid "Record Audio / Stop Recording"
@@ -1866,19 +1866,19 @@ msgstr "Seitenvorlage konfigurieren"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Configure new page template"
-msgstr ""
+msgstr "Neue Seitenvorlage konfigurieren"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
-msgstr ""
+msgstr "Den Hintergrund der aktuellen Seite kopieren"
 
 #: ../ui/pageTemplate.glade:268
 msgid "Copy current page size instead"
-msgstr ""
+msgstr "Aktuelle Seitengröße kopieren"
 
 #: ../ui/pageTemplate.glade:191
 msgid "Copy the background of the current page instead of using the background set above."
-msgstr ""
+msgstr "Hintergrund der aktuellen Seite kopieren anstatt den obigen Hintergrund zu verwenden."
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -2108,7 +2108,7 @@ msgstr "Gehe zur Seite"
 
 #: ../ui/settings.glade:3361
 msgid "Grid size"
-msgstr ""
+msgstr "Rastergröße"
 
 #: ../ui/settings.glade:3318
 msgid "Grid snapping tolerance"
@@ -2524,7 +2524,7 @@ msgstr "Die folgenden Einstellungen zeigen nur Wirkung wenn das experimentelle E
 
 #: ../ui/pageTemplate.glade:113
 msgid "These settings will be used for new pages"
-msgstr ""
+msgstr "Diese Einstellungen werden für neue Seiten verwendet"
 
 #: ../ui/settings.glade:646
 msgid "This is an experimental feature! Use it with care."
@@ -2553,7 +2553,7 @@ msgstr "Versuche Objekt als erstes auszuwählen; Wenn nichts ausgewählt wurde, 
 
 #: ../ui/pageTemplate.glade:273
 msgid "Use the current page size instead of the page size above."
-msgstr ""
+msgstr "Aktuelle Seitengröße anstelle der obigen Seitengröße verwenden."
 
 #: ../ui/settings.glade:3252
 msgid "Usually 0 or 1"
