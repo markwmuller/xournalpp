@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-05 20:21+0000\n"
-"PO-Revision-Date: 2020-05-05 20:28\n"
+"PO-Revision-Date: 2020-05-06 18:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Finnish\n"
 "Language: fi_FI\n"
@@ -1238,7 +1238,7 @@ msgstr "Tuntematon jäsennysvirhe"
 
 #: ../src/control/xojfile/LoadHandler.cpp:376
 msgid "Unknown pixmap::domain type: {1}"
-msgstr ""
+msgstr "Tuntematon pixmap::domain tyyppi: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:579
 msgid "Unknown stroke type: \"{1}\", assuming pen"
@@ -1250,11 +1250,11 @@ msgstr "Tallentamaton asiakirja"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:418
 msgid "Vertical Space"
-msgstr ""
+msgstr "Pystysuuntainen tila"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:62
 msgid "Vertical space"
-msgstr ""
+msgstr "Pystysuuntainen tila"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:472
 msgid "Very Fine"
@@ -2293,7 +2293,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2256
 msgid "Radius"
-msgstr ""
+msgstr "Säde"
 
 #: ../ui/exportSettings.glade:127
 msgid "Range"
