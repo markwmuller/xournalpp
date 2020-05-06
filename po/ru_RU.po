@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-05 20:21+0000\n"
-"PO-Revision-Date: 2020-05-05 20:27\n"
+"PO-Revision-Date: 2020-05-06 18:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -167,7 +167,7 @@ msgstr "Изменить заливку контура"
 
 #: ../src/undo/SizeUndoAction.cpp:104
 msgid "Change stroke width"
-msgstr "Изменить толщину контура"
+msgstr "Изменить толщину линии"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -634,7 +634,7 @@ msgstr "Вставить элементы"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:61 ../src/undo/InsertUndoAction.cpp:34
 msgid "Insert image"
-msgstr "Вставка изображения"
+msgstr "Вставить изображение"
 
 #: ../src/undo/InsertUndoAction.cpp:36
 msgid "Insert latex"
@@ -1864,19 +1864,19 @@ msgstr "Настройка шаблона страницы"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Configure new page template"
-msgstr ""
+msgstr "Настроить шаблон новой страницы"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
-msgstr ""
+msgstr "Скопировать текущий фон"
 
 #: ../ui/pageTemplate.glade:268
 msgid "Copy current page size instead"
-msgstr ""
+msgstr "Скопировать текущий размер страницы"
 
 #: ../ui/pageTemplate.glade:191
 msgid "Copy the background of the current page instead of using the background set above."
-msgstr ""
+msgstr "Скопировать фон текущей страницы вместо использования фона, установленного выше."
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -1952,7 +1952,7 @@ msgstr "Калибровка DPI дисплея"
 
 #: ../ui/settings.glade:3513
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
-msgstr "Игнорировать короткие (по времени и по длине) входные данные, если они не происходят в быстрой последовательности. Вместо этого показать плавающий набор инструментов."
+msgstr "Игнорировать короткие (по времени и длине) непоследовательные штрихи. Вместо этого показать плавающую панель инструментов."
 
 #: ../ui/settings.glade:666 ../ui/settings.glade:833 ../ui/settings.glade:3426
 msgid "Drag LEFT from start point acts like shift key is being held.\n"
@@ -2522,7 +2522,7 @@ msgstr "Эти настройки применяются только в том 
 
 #: ../ui/pageTemplate.glade:113
 msgid "These settings will be used for new pages"
-msgstr ""
+msgstr "Эти настройки будут применены к новым страницам"
 
 #: ../ui/settings.glade:646
 msgid "This is an experimental feature! Use it with care."
@@ -2551,7 +2551,7 @@ msgstr "Сначала попробуйте выбрать объект; есл�
 
 #: ../ui/pageTemplate.glade:273
 msgid "Use the current page size instead of the page size above."
-msgstr ""
+msgstr "Использовать текущий размер страницы вместо установленного выше."
 
 #: ../ui/settings.glade:3252
 msgid "Usually 0 or 1"
