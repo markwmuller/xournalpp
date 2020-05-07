@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-05 20:21+0000\n"
-"PO-Revision-Date: 2020-05-05 20:27\n"
+"PO-Revision-Date: 2020-05-07 19:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -57,7 +57,7 @@ msgstr ""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:35
 msgid "All files"
-msgstr ""
+msgstr "모든 파일"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:197
 msgid "Apply to all pages"
@@ -133,17 +133,17 @@ msgstr ""
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:10
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:103
 msgid "Black"
-msgstr ""
+msgstr "검은"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:14
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:107
 msgid "Blue"
-msgstr ""
+msgstr "파랑"
 
 #: ../src/control/Control.cpp:1995 ../src/control/Control.cpp:2447
 #: ../src/control/XournalMain.cpp:151
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #: ../src/undo/ColorUndoAction.cpp:90
 msgid "Change color"
@@ -173,7 +173,7 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:75
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:81
 msgid "Copy"
-msgstr ""
+msgstr "복사"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:28
 msgid "Copy current"
