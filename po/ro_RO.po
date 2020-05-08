@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-08 03:55\n"
+"PO-Revision-Date: 2020-05-08 13:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -1678,7 +1678,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:209
 msgid "<i>Example:</i> 1-3 or 1,3,5-7 etc."
-msgstr ""
+msgstr "<i>Exemplu:</i> 1-3 sau 1,3,5-7 etc."
 
 #: ../ui/settings.glade:1953
 msgid "<i>For some specific hardware the scroll / touch behaviour of the system is not as expected. For these cases Xournal++ has a workaround.\n"
@@ -1796,7 +1796,7 @@ msgstr ""
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
-msgstr ""
+msgstr "Autor: "
 
 #: ../ui/about.glade:186
 msgid "Authors:"
@@ -2196,15 +2196,15 @@ msgstr ""
 
 #: ../ui/main.glade:2524
 msgid "Insert Page Before"
-msgstr ""
+msgstr "Inserare pagină înainte"
 
 #: ../ui/main.glade:2115
 msgid "Insert a copy of the current page below"
-msgstr ""
+msgstr "Introduceți o copie a paginii curente de mai jos"
 
 #: ../ui/main.glade:512
 msgid "Layout"
-msgstr ""
+msgstr "Aspect"
 
 #: ../ui/settings.glade:2578
 msgid "Left / Right-Handed"
@@ -2212,19 +2212,19 @@ msgstr ""
 
 #: ../ui/about.glade:265
 msgid "License"
-msgstr ""
+msgstr "Licenţă"
 
 #: ../ui/settings.glade:619
 msgid "Load / Save"
-msgstr ""
+msgstr "Încărcare / Salvare"
 
 #: ../ui/images.glade:73
 msgid "Load file"
-msgstr ""
+msgstr "Încarcă fişier"
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
-msgstr ""
+msgstr "Gestionează bara de instrumente"
 
 #: ../ui/settings.glade:3694
 msgid "Max Length (mm)"
@@ -2237,7 +2237,7 @@ msgstr ""
 
 #: ../ui/settings.glade:986
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "Buton mijloc maus"
 
 #: ../ui/settings.glade:1073 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -2249,7 +2249,7 @@ msgstr "Butoanele mouse-ului"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr ""
+msgstr "Mouse+Combo tastatură"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
@@ -2261,7 +2261,7 @@ msgstr "Mută în sus"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
-msgstr ""
+msgstr "Pagina următoare adnotată"
 
 #: ../ui/main.glade:1113
 msgid "New Page _After"
@@ -2342,7 +2342,7 @@ msgstr "Manager plugin-uri"
 
 #: ../ui/main.glade:1907
 msgid "Plugin _Manager"
-msgstr ""
+msgstr "Manager plugin-uri"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
@@ -2699,7 +2699,7 @@ msgstr ""
 
 #: ../ui/main.glade:295
 msgid "_Edit"
-msgstr ""
+msgstr "_Editare"
 
 #: ../ui/main.glade:1245
 msgid "_Eraser"
@@ -2711,7 +2711,7 @@ msgstr ""
 
 #: ../ui/main.glade:155
 msgid "_File"
-msgstr ""
+msgstr "_Fișier"
 
 #: ../ui/main.glade:967
 msgid "_First Page"
@@ -2723,7 +2723,7 @@ msgstr ""
 
 #: ../ui/main.glade:1921
 msgid "_Help"
-msgstr ""
+msgstr "_Ajutor"
 
 #: ../ui/main.glade:1257
 msgid "_Highlighter"
@@ -2731,7 +2731,7 @@ msgstr ""
 
 #: ../ui/main.glade:524
 msgid "_Horizontal"
-msgstr ""
+msgstr "_Orizontal"
 
 #: ../ui/main.glade:1281
 msgid "_Image"
@@ -2755,7 +2755,7 @@ msgstr ""
 
 #: ../ui/main.glade:956
 msgid "_Navigation"
-msgstr ""
+msgstr "_Navigare"
 
 #: ../ui/main.glade:1039
 msgid "_Next Layer"
@@ -2775,7 +2775,7 @@ msgstr ""
 
 #: ../ui/main.glade:1896
 msgid "_Plugin"
-msgstr ""
+msgstr "_Plugin"
 
 #: ../ui/main.glade:475
 msgid "_Presentation Mode"
@@ -2803,7 +2803,7 @@ msgstr ""
 
 #: ../ui/main.glade:1222
 msgid "_Tools"
-msgstr ""
+msgstr "_Unelte"
 
 #: ../ui/main.glade:1050
 msgid "_Top Layer"
@@ -2823,7 +2823,7 @@ msgstr ""
 
 #: ../ui/main.glade:454
 msgid "_View"
-msgstr ""
+msgstr "_Vizualizare"
 
 #: ../ui/main.glade:1709
 msgid "_delete strokes"
@@ -2875,7 +2875,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:53
 msgid "load from file"
-msgstr ""
+msgstr "Încărcați din fișierul ..."
 
 #: ../ui/settings.glade:318
 msgid "minutes"
