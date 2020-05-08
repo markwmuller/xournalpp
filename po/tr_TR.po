@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-08 10:27\n"
+"PO-Revision-Date: 2020-05-08 10:32\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -1881,15 +1881,15 @@ msgstr "Yeni sayfa şablonunu yapılandır"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
-msgstr ""
+msgstr "Bunun yerine geçerli sayfa arka planını kopyala"
 
 #: ../ui/pageTemplate.glade:268
 msgid "Copy current page size instead"
-msgstr ""
+msgstr "Bunun yerine geçerli sayfa boyutunu kopyala"
 
 #: ../ui/pageTemplate.glade:191
 msgid "Copy the background of the current page instead of using the background set above."
-msgstr ""
+msgstr "Yukarıda ayarlanan arka planı kullanmak yerine geçerli sayfanın arka planını kopyala."
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -1987,7 +1987,7 @@ msgstr "Çi_zgi Çiz"
 
 #: ../ui/settings.glade:2287
 msgid "Draw a transparent circle around the cursor"
-msgstr ""
+msgstr "İmlecin etrafına saydam bir daire çiz"
 
 #: ../ui/settings.glade:3819
 msgid "Drawing Area"
@@ -2119,7 +2119,7 @@ msgstr "Sayfaya Git"
 
 #: ../ui/settings.glade:3476
 msgid "Grid size"
-msgstr ""
+msgstr "Izgara boyutu"
 
 #: ../ui/settings.glade:3433
 msgid "Grid snapping tolerance"
@@ -2179,7 +2179,7 @@ msgstr "Zamanı Yoksay (ms)"
 
 #: ../ui/settings.glade:1211
 msgid "Ignore the first"
-msgstr ""
+msgstr "İlkini yoksay"
 
 #: ../ui/settings.glade:4130
 msgid "Input Device"
@@ -2375,7 +2375,7 @@ msgstr "BÜLTEN_TANIMLAMA"
 
 #: ../ui/settings.glade:2371
 msgid "Radius"
-msgstr ""
+msgstr "Yarıçap"
 
 #: ../ui/exportSettings.glade:127
 msgid "Range"
@@ -2539,7 +2539,7 @@ msgstr "Bu ayarlar yalnızca deneysel giriş sistemi etkinleştirildiyse etkili 
 
 #: ../ui/pageTemplate.glade:113
 msgid "These settings will be used for new pages"
-msgstr ""
+msgstr "Bu ayarlar yeni sayfalar için kullanılacak"
 
 #: ../ui/settings.glade:653
 msgid "This is an experimental feature! Use it with care."
@@ -2568,7 +2568,7 @@ msgstr "Önce nesneyi seçmeyi deneyin; seçili bir şey yoksa, etkinse kayan ar
 
 #: ../ui/pageTemplate.glade:273
 msgid "Use the current page size instead of the page size above."
-msgstr ""
+msgstr "Yukarıdaki sayfa boyutu yerine geçerli sayfa boyutunu kullan."
 
 #: ../ui/settings.glade:3367
 msgid "Usually 0 or 1"
@@ -2876,7 +2876,7 @@ msgstr "etkin,"
 
 #: ../ui/settings.glade:1246
 msgid "events"
-msgstr ""
+msgstr "olaylar"
 
 #: ../ui/settings.glade:291
 msgid "every"
