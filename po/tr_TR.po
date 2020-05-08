@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-08 03:55\n"
+"PO-Revision-Date: 2020-05-08 10:27\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -553,7 +553,7 @@ msgstr "İleri"
 
 #: ../src/control/XournalMain.cpp:310
 msgid "Get version of xournalpp"
-msgstr ""
+msgstr "Xournalpp sürümünü edinin"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:365
 msgid "Go to first page"
@@ -892,7 +892,7 @@ msgstr "Sunum modu"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:320
 msgid "Print"
-msgstr ""
+msgstr "Yazdır"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 msgid "Record Audio / Stop Recording"
@@ -1597,7 +1597,7 @@ msgstr "... VE Son vuruştan bu yana ne kadar zaman geçmiş olmalı.\n\n"
 
 #: ../ui/settings.glade:1230
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../ui/settings.glade:4325
 msgid "1,00"
@@ -1605,7 +1605,7 @@ msgstr "1,00"
 
 #: ../ui/settings.glade:2407
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
@@ -1749,7 +1749,7 @@ msgstr "<i>Günlük sayfalarını yakınlaştırmak için sıkıştırma hareket
 
 #: ../ui/settings.glade:1192
 msgid "<i>With some setup, pen strokes have artifacts at their beginning. This can be avoided by ignoring the first few events/stroke-points when the pen touches the screen.</i>"
-msgstr ""
+msgstr "<i>Bazı kurulumlarda kalem vuruşlarının başında yapay dokular vardır. Kalem ekrana dokunduğunda ilk birkaç olayı/kontur noktasını göz ardı ederek bu önlenebilir.</i>"
 
 #: ../ui/settings.glade:1517
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
@@ -1789,7 +1789,7 @@ msgstr "Vuruş yok sayılmadan önce her üç koşul da yerine getirilmelidir.\n
 
 #: ../ui/settings.glade:1269
 msgid "Artifact workaround"
-msgstr ""
+msgstr "Yapay doku çözümü"
 
 #: ../ui/settings.glade:4187
 msgid "Audio Devices"
@@ -1833,11 +1833,11 @@ msgstr "Kalem için büyük imleç"
 
 #: ../ui/settings.glade:2462
 msgid "Border Color"
-msgstr ""
+msgstr "Kenar Rengi"
 
 #: ../ui/settings.glade:2423
 msgid "Border Width"
-msgstr ""
+msgstr "Kenar Kalınlığı"
 
 #: ../ui/settings.glade:2148
 msgid "Border color"
@@ -1861,11 +1861,11 @@ msgstr "Düğme 2"
 
 #: ../ui/settings.glade:2305 ../ui/settings.glade:2448
 msgid "Choose the color to use for \"Highlight cursor position\""
-msgstr ""
+msgstr "\"İmleç konumunu vurgula\" için kullanılacak rengi seçin"
 
 #: ../ui/settings.glade:2319
 msgid "Circle Color"
-msgstr ""
+msgstr "Daire Rengi"
 
 #: ../ui/settings.glade:2229
 msgid "Colors"
@@ -1877,7 +1877,7 @@ msgstr "Sayfa Şablonlarını Yapılandır"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Configure new page template"
-msgstr ""
+msgstr "Yeni sayfa şablonunu yapılandır"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
