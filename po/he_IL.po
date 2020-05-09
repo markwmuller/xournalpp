@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-09 08:35\n"
+"PO-Revision-Date: 2020-05-09 08:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -2819,17 +2819,17 @@ msgstr "כֹּל"
 
 #: ../ui/pageTemplate.glade:53
 msgid "load from file"
-msgstr "טעינה מקובץ"
+msgstr "טען מקובץ"
 
 #: ../ui/settings.glade:318
 msgid "minutes"
-msgstr ""
+msgstr "דקות"
 
 #: ../ui/settings.glade:2343 ../ui/settings.glade:2394
 #: ../ui/settings.glade:3289 ../ui/settings.glade:3300
 #: ../ui/settings.glade:3576
 msgid "pixels"
-msgstr ""
+msgstr "פיקסלים"
 
 #: ../ui/settings.glade:1684
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
@@ -2837,7 +2837,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:39
 msgid "save to file"
-msgstr ""
+msgstr "שמור לקובץ"
 
 #: ../ui/main.glade:1524 ../ui/main.glade:1670 ../ui/main.glade:1779
 msgid "ver_y thick"
