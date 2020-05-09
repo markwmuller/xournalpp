@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-09 08:04\n"
+"PO-Revision-Date: 2020-05-09 08:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -1803,43 +1803,43 @@ msgstr "כפתור 2"
 
 #: ../ui/settings.glade:2305 ../ui/settings.glade:2448
 msgid "Choose the color to use for \"Highlight cursor position\""
-msgstr ""
+msgstr "בחר את הצבע ש\"ידגיש את מיקום הסמן\""
 
 #: ../ui/settings.glade:2319
 msgid "Circle Color"
-msgstr ""
+msgstr "צבע העיגול"
 
 #: ../ui/settings.glade:2229
 msgid "Colors"
-msgstr ""
+msgstr "צבעים"
 
 #: ../ui/main.glade:1134
 msgid "Configure Page Template"
-msgstr ""
+msgstr "הגדר תבנית הדף"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Configure new page template"
-msgstr ""
+msgstr "הגדר תבנית דף חדש"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
-msgstr ""
+msgstr "העתק את רקע הדף הנוכחי במקום"
 
 #: ../ui/pageTemplate.glade:268
 msgid "Copy current page size instead"
-msgstr ""
+msgstr "העתק את גודל הדף הנוכחי במקום"
 
 #: ../ui/pageTemplate.glade:191
 msgid "Copy the background of the current page instead of using the background set above."
-msgstr ""
+msgstr "העתק את רקע הדף הנוכחי במקום להשתמש ברקע שהוגדר למעלה."
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
-msgstr ""
+msgstr "דף נוכחי"
 
 #: ../ui/settings.glade:2511
 msgid "Cursor"
-msgstr ""
+msgstr "סמן"
 
 #: ../ui/settings.glade:1832
 msgid "Custom Commands (for Method \"Custom\")"
@@ -1847,11 +1847,11 @@ msgstr ""
 
 #: ../ui/settings.glade:2207
 msgid "Dark Theme (requires restart)"
-msgstr ""
+msgstr "ערכת נושא כהה (תידרש הפעלה מחדש)"
 
 #: ../ui/settings.glade:523
 msgid "Default Save Name"
-msgstr ""
+msgstr "שם ברירת המחדל לשמירה"
 
 #: ../ui/settings.glade:4312
 msgid "Default Seek Time (in seconds)"
@@ -1859,15 +1859,15 @@ msgstr ""
 
 #: ../ui/settings.glade:411
 msgid "Default name: "
-msgstr ""
+msgstr "שם ברירת מחדל: "
 
 #: ../ui/settings.glade:3965
 msgid "Defaults"
-msgstr ""
+msgstr "ברירות מחדל"
 
 #: ../ui/main.glade:1172
 msgid "Delete Layer"
-msgstr ""
+msgstr "מחיקת שכבה"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
@@ -1875,19 +1875,19 @@ msgstr ""
 
 #: ../ui/main.glade:2136
 msgid "Delete this page"
-msgstr ""
+msgstr "מחיקת דף נוכחי"
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
-msgstr ""
+msgstr "מכשיר"
 
 #: ../ui/settings.glade:1760
 msgid "Disable"
-msgstr ""
+msgstr "השבת"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
-msgstr ""
+msgstr "השבת ציור בשביל מכשיר זה"
 
 #: ../ui/settings.glade:2637
 msgid "Disable scrollbar fade out"
@@ -2054,11 +2054,11 @@ msgstr ""
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
-msgstr ""
+msgstr "עבור לדף"
 
 #: ../ui/settings.glade:3476
 msgid "Grid size"
-msgstr ""
+msgstr "גודל רשת"
 
 #: ../ui/settings.glade:3433
 msgid "Grid snapping tolerance"
@@ -2070,31 +2070,31 @@ msgstr ""
 
 #: ../ui/settings.glade:1857
 msgid "Hand Recognition"
-msgstr ""
+msgstr "זיהוי יד"
 
 #: ../ui/pagesize.glade:212
 msgid "Height:"
-msgstr ""
+msgstr "גובה:"
 
 #: ../ui/main.glade:888 ../ui/settings.glade:2686 ../ui/settings.glade:2753
 msgid "Hide Menubar"
-msgstr ""
+msgstr "הסתר סרגל תפריט"
 
 #: ../ui/settings.glade:2702 ../ui/settings.glade:2769
 msgid "Hide Sidebar"
-msgstr ""
+msgstr "הסתר סרגל צד"
 
 #: ../ui/settings.glade:2607
 msgid "Hide the horizontal scrollbar"
-msgstr ""
+msgstr "הסתר סרגל גלילה אופקי"
 
 #: ../ui/settings.glade:2622
 msgid "Hide the vertical scrollbar"
-msgstr ""
+msgstr "הסתר סרגל גלילה אנכי"
 
 #: ../ui/settings.glade:2282
 msgid "Highlight cursor position"
-msgstr ""
+msgstr "הדגש מיקום סמן"
 
 #: ../ui/main.glade:1724
 msgid "Highlighter Opti_ons"
@@ -2112,23 +2112,23 @@ msgstr ""
 
 #: ../ui/settings.glade:3641
 msgid "Ignore Time (ms)"
-msgstr ""
+msgstr "זמן התעלמות (מילי שניות)"
 
 #: ../ui/settings.glade:1211
 msgid "Ignore the first"
-msgstr ""
+msgstr "התעלם מהראשון"
 
 #: ../ui/settings.glade:4130
 msgid "Input Device"
-msgstr ""
+msgstr "מכשיר קלט"
 
 #: ../ui/settings.glade:769
 msgid "Input Devices"
-msgstr ""
+msgstr "מכשירי קלט"
 
 #: ../ui/settings.glade:894
 msgid "Input System"
-msgstr ""
+msgstr "מערכת קלט"
 
 #: ../ui/texdialog.glade:9
 msgid "Insert Latex"
@@ -2136,15 +2136,15 @@ msgstr ""
 
 #: ../ui/main.glade:2532
 msgid "Insert Page After"
-msgstr ""
+msgstr "הכנס דף אחרי"
 
 #: ../ui/main.glade:2524
 msgid "Insert Page Before"
-msgstr ""
+msgstr "הכנס דף לפני"
 
 #: ../ui/main.glade:2115
 msgid "Insert a copy of the current page below"
-msgstr ""
+msgstr "הכנס העתק של הדף הנוכחי מתחת"
 
 #: ../ui/main.glade:512
 msgid "Layout"
@@ -2152,27 +2152,27 @@ msgstr ""
 
 #: ../ui/settings.glade:2578
 msgid "Left / Right-Handed"
-msgstr ""
+msgstr "ימני/שמאלי"
 
 #: ../ui/about.glade:265
 msgid "License"
-msgstr ""
+msgstr "רישיון"
 
 #: ../ui/settings.glade:619
 msgid "Load / Save"
-msgstr ""
+msgstr "טען / שמור"
 
 #: ../ui/images.glade:73
 msgid "Load file"
-msgstr ""
+msgstr "טען קובץ"
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
-msgstr ""
+msgstr "נהל סרגל כלים"
 
 #: ../ui/settings.glade:3694
 msgid "Max Length (mm)"
-msgstr ""
+msgstr "אורך מקסימלי (מילימטרים)"
 
 #: ../ui/settings.glade:852
 msgid "Merge button events with stylus tip events\n"
@@ -2181,27 +2181,27 @@ msgstr ""
 
 #: ../ui/settings.glade:986
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "לחצן העכבר האמצעי"
 
 #: ../ui/settings.glade:1073 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr ""
+msgstr "עכבר"
 
 #: ../ui/settings.glade:1042
 msgid "Mouse Buttons"
-msgstr ""
+msgstr "לחצני עכבר"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr ""
+msgstr "שילוב עכבר+מקלדת"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
-msgstr ""
+msgstr "לרדת"
 
 #: ../ui/main.glade:2554
 msgid "Move Up"
-msgstr ""
+msgstr "לעלות"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
@@ -2229,11 +2229,11 @@ msgstr ""
 
 #: ../ui/settings.glade:874
 msgid "Options"
-msgstr ""
+msgstr "אפשרויות"
 
 #: ../ui/settings.glade:4153
 msgid "Output Device"
-msgstr ""
+msgstr "מכשיר פלט"
 
 #: ../ui/main.glade:1077
 msgid "P_revious annotated Page"
@@ -2241,19 +2241,19 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
-msgstr ""
+msgstr "דפים:"
 
 #: ../ui/settings.glade:3387
 msgid "Paired Pages"
-msgstr ""
+msgstr "דפים צמודים"
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
-msgstr ""
+msgstr "סוג הנייר"
 
 #: ../ui/main.glade:1199
 msgid "Paper _Color"
-msgstr ""
+msgstr "_צבע הדף"
 
 #: ../ui/main.glade:1189
 msgid "Paper _Format"
@@ -2398,15 +2398,15 @@ msgstr ""
 
 #: ../ui/main.glade:496
 msgid "Show sidebar"
-msgstr ""
+msgstr "הצג סרגל צידי"
 
 #: ../ui/settings.glade:2540
 msgid "Show sidebar on the right side"
-msgstr ""
+msgstr "הצג סרגל צד בצד הימני"
 
 #: ../ui/settings.glade:2556
 msgid "Show vertical scrollbar on the left side"
-msgstr ""
+msgstr "הצג סרגל צד אנכי בצד השמאלי"
 
 #: ../ui/settings.glade:3507
 msgid "Snapping"
@@ -2422,19 +2422,19 @@ msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
-msgstr ""
+msgstr "סטנדרטי"
 
 #: ../ui/settings.glade:4038 ../ui/settings.glade:4075
 msgid "Storage Folder"
-msgstr ""
+msgstr "תיקיית אחסון"
 
 #: ../ui/settings.glade:1466
 msgid "Stylus"
-msgstr ""
+msgstr "עט סטיילוס"
 
 #: ../ui/settings.glade:1435
 msgid "Stylus Buttons"
-msgstr ""
+msgstr "כפתורי עט סטיילוס"
 
 #: ../ui/settings.glade:3705
 msgid "Successive (ms)"
