@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-08 03:55\n"
+"PO-Revision-Date: 2020-05-09 20:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -1596,7 +1596,7 @@ msgstr "... И сколько времени должно пройти с мом
 
 #: ../ui/settings.glade:1230
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../ui/settings.glade:4325
 msgid "1,00"
