@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-08 03:55\n"
+"PO-Revision-Date: 2020-05-09 07:50\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -736,7 +736,7 @@ msgstr ""
 
 #: ../src/plugin/Plugin.cpp:308 ../src/plugin/Plugin.cpp:327
 msgid "OK"
-msgstr ""
+msgstr "אישור"
 
 #: ../src/control/jobs/BaseExportJob.cpp:86
 msgid "Only local files are supported\n"
@@ -745,60 +745,60 @@ msgstr ""
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 msgid "Open Image"
-msgstr ""
+msgstr "פתיחת תמונה"
 
 #: ../src/control/XournalMain.cpp:148
 msgid "Open Logfile"
-msgstr ""
+msgstr "פתיחת קובץ לוג"
 
 #: ../src/control/XournalMain.cpp:149
 msgid "Open Logfile directory"
-msgstr ""
+msgstr "פתח תיקייה של קובץ לוג"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:318
 msgid "Open file"
-msgstr ""
+msgstr "פתח קובץ"
 
 #: ../src/control/RecentManager.cpp:181
 msgctxt "{1} is a URI"
 msgid "Open {1}"
-msgstr ""
+msgstr "פתח {1}"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:18
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:111
 msgid "Orange"
-msgstr ""
+msgstr "כתום"
 
 #: ../src/control/jobs/PdfExportJob.cpp:9
 msgid "PDF Export"
-msgstr ""
+msgstr "ייצוא PDF"
 
 #: ../src/gui/MainWindow.cpp:628
 msgid "PDF Page {1}"
-msgstr ""
+msgstr "דף PDF {1}"
 
 #: ../src/view/PdfView.cpp:32
 msgid "PDF background missing"
-msgstr ""
+msgstr "רקע PDF לא נמצא"
 
 #: ../src/control/XournalMain.cpp:287
 msgid "PDF file successfully created"
-msgstr ""
+msgstr "קובץ PDF נוצר בהצלחה"
 
 #: ../src/control/jobs/CustomExportJob.cpp:20
 #: ../src/control/jobs/PdfExportJob.cpp:13
 #: ../src/control/stockdlg/XojOpenDlg.cpp:42
 msgid "PDF files"
-msgstr ""
+msgstr "קבצי PDF"
 
 #: ../src/control/XournalMain.cpp:306
 msgid "PDF output filename"
-msgstr ""
+msgstr "שם פלט PDF"
 
 #: ../src/control/jobs/CustomExportJob.cpp:21
 msgid "PDF with plain background"
-msgstr ""
+msgstr "PDF עם רקע לבן"
 
 #: ../src/control/jobs/CustomExportJob.cpp:22
 msgid "PNG graphics"
@@ -980,7 +980,7 @@ msgstr "בחר גופן"
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:19
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:66
 msgid "Select Object"
-msgstr ""
+msgstr "בחר אובייקט"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:415
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:14
@@ -1027,15 +1027,15 @@ msgstr "שלח דיווח על באג"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:50
 msgid "Separator"
-msgstr ""
+msgstr "מפריד"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:404
 msgid "Shape Recognizer"
-msgstr ""
+msgstr "מזהה צורות"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:63
 msgid "Show all"
-msgstr ""
+msgstr "הצג הכל"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:88
 msgid "Show only not used pages (one unused page)"
@@ -1061,7 +1061,7 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:431
 msgid "Stop"
-msgstr ""
+msgstr "עצור"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:105
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:35
@@ -1071,16 +1071,16 @@ msgstr ""
 
 #: ../src/util/CrashHandler.cpp:41
 msgid "Successfully saved document to \"{1}\""
-msgstr ""
+msgstr "מסמך נשמר בהצלחה ל- {1}"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:93
 msgid "Supported files"
-msgstr ""
+msgstr "קבצים נתמכים"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:60
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Text"
-msgstr ""
+msgstr "טקסט"
 
 #: ../src/gui/SearchBar.cpp:67
 #, c-format
@@ -1089,27 +1089,27 @@ msgstr ""
 
 #: ../src/undo/TextUndoAction.cpp:29
 msgid "Text changes"
-msgstr ""
+msgstr "שינויים בטקסט"
 
 #: ../src/gui/SearchBar.cpp:65
 msgid "Text found on this page"
-msgstr ""
+msgstr "טקסט שנמצא בדף זה"
 
 #: ../src/gui/SearchBar.cpp:123 ../src/gui/SearchBar.cpp:167
 msgid "Text found once on page {1}"
-msgstr ""
+msgstr "טקסט שנמצא פעם אחת בדף {1}"
 
 #: ../src/gui/SearchBar.cpp:124 ../src/gui/SearchBar.cpp:168
 msgid "Text found {1} times on page {2}"
-msgstr ""
+msgstr "טקסט שנמצא {1} פעמים בדף {2}"
 
 #: ../src/gui/SearchBar.cpp:72
 msgid "Text not found"
-msgstr ""
+msgstr "טקסט לא נמצא"
 
 #: ../src/gui/SearchBar.cpp:134 ../src/gui/SearchBar.cpp:178
 msgid "Text not found, searched on all pages"
-msgstr ""
+msgstr "טקסט לא נמצא, כל הדפים עברו חיפוש"
 
 #: ../src/control/Control.cpp:1055
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
@@ -1162,40 +1162,40 @@ msgstr ""
 #: ../src/gui/dialog/ButtonConfigGui.cpp:84
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Thick"
-msgstr ""
+msgstr "עבה"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:81
 msgid "Thickness - don't change"
-msgstr ""
+msgstr "עובי - לא לשנות"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:82
 msgid "Thin"
-msgstr ""
+msgstr "דק"
 
 #: ../src/control/Control.cpp:2438
 msgid "This document is not saved yet."
-msgstr ""
+msgstr "מסמך זה עדיין לא נשמר."
 
 #: ../src/control/PageBackgroundChangeController.cpp:151
 #: ../src/control/tools/ImageHandler.cpp:44
 msgid "This image could not be loaded. Error message: {1}"
-msgstr ""
+msgstr "תמונה זו לא יכלה להיטען. הודעת שגיאה: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:352
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "עבור למסך מלא"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:56
 msgid "Tool - don't change"
-msgstr ""
+msgstr "כלי - אל תשנה"
 
 #: ../src/gui/toolbarMenubar/model/ToolbarData.cpp:106
 msgid "Toolbar found: {1}"
-msgstr ""
+msgstr "נמצא סרגל כלים: {1}"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:45
 msgid "Toolbars"
-msgstr ""
+msgstr "סרגלי כלים"
 
 #: ../src/util/CrashHandler.cpp:30
 msgid "Trying to emergency save the current open document…"
