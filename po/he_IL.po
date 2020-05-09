@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-09 07:50\n"
+"PO-Revision-Date: 2020-05-09 08:04\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -1199,20 +1199,20 @@ msgstr "סרגלי כלים"
 
 #: ../src/util/CrashHandler.cpp:30
 msgid "Trying to emergency save the current open document…"
-msgstr ""
+msgstr "מנסה לשמור בחירום את המסמך הפתוח הנוכחי…"
 
 #: ../src/gui/PageView.cpp:346
 msgid "Unable to play audio recording {1}"
-msgstr ""
+msgstr "לא ניתן לנגן את הקלטת השמע {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:326
 #: ../src/undo/UndoRedoHandler.cpp:203
 msgid "Undo"
-msgstr ""
+msgstr "בטל"
 
 #: ../src/undo/UndoRedoHandler.cpp:198
 msgid "Undo: "
-msgstr ""
+msgstr "בטל: "
 
 #: ../src/control/xojfile/LoadHandler.cpp:278
 msgid "Unexpected root tag: {1}"
@@ -1350,28 +1350,28 @@ msgstr ""
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:360
 msgid "Zoom to 100%"
-msgstr ""
+msgstr "תקריב 100%‏"
 
 #: ../src/control/Control.cpp:2275 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Cancel"
-msgstr ""
+msgstr "_ביטול"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 msgid "_Open"
-msgstr ""
+msgstr "_פתח"
 
 #: ../src/control/Control.cpp:2276 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
-msgstr ""
+msgstr "_שמור"
 
 #: ../src/util/DeviceListHelper.cpp:96
 msgid "cursor"
-msgstr ""
+msgstr "סמן"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:236
 msgid "dash-/ dotted"
@@ -1383,11 +1383,11 @@ msgstr ""
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
-msgstr ""
+msgstr "ברירת מחדל בוטלה"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default enabled"
-msgstr ""
+msgstr "ברירת מחדל מופעלת"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:251
 msgid "delete stroke"
@@ -1399,27 +1399,27 @@ msgstr ""
 
 #: ../src/undo/AddUndoAction.cpp:86 ../src/undo/DeleteUndoAction.cpp:83
 msgid "elements"
-msgstr ""
+msgstr "אלמנטים"
 
 #: ../src/util/DeviceListHelper.cpp:94
 msgid "eraser"
-msgstr ""
+msgstr "מחק"
 
 #: ../src/undo/AddUndoAction.cpp:97 ../src/undo/DeleteUndoAction.cpp:94
 msgid "image"
-msgstr ""
+msgstr "תמונה"
 
 #: ../src/util/DeviceListHelper.cpp:99
 msgid "keyboard"
-msgstr ""
+msgstr "מקלדת"
 
 #: ../src/undo/AddUndoAction.cpp:100 ../src/undo/DeleteUndoAction.cpp:97
 msgid "latex"
-msgstr ""
+msgstr "לייטקס"
 
 #: ../src/util/DeviceListHelper.cpp:90
 msgid "mouse"
-msgstr ""
+msgstr "עכבר"
 
 #: ../src/control/LatexController.cpp:265
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
@@ -1427,16 +1427,16 @@ msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:92
 msgid "pen"
-msgstr ""
+msgstr "עט"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:153
 msgid "show"
-msgstr ""
+msgstr "הצג"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:230
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:249
 msgid "standard"
-msgstr ""
+msgstr "סטנדרטי"
 
 #: ../src/undo/AddUndoAction.cpp:94 ../src/undo/DeleteUndoAction.cpp:91
 msgid "stroke"
@@ -1444,23 +1444,23 @@ msgstr ""
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
-msgstr ""
+msgstr "לוח טאבלט"
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
-msgstr ""
+msgstr "טקסט"
 
 #: ../src/util/DeviceListHelper.cpp:103
 msgid "touchpad"
-msgstr ""
+msgstr "משטח מגע"
 
 #: ../src/util/DeviceListHelper.cpp:101
 msgid "touchscreen"
-msgstr ""
+msgstr "מסך מגע"
 
 #: ../src/util/DeviceListHelper.cpp:106
 msgid "trackpoint"
-msgstr ""
+msgstr "טראקפוינט"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:250
 msgid "whiteout"
@@ -1547,31 +1547,31 @@ msgstr ""
 
 #: ../ui/settings.glade:1230
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../ui/settings.glade:4325
 msgid "1,00"
-msgstr ""
+msgstr "1,00"
 
 #: ../ui/settings.glade:2407
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
-msgstr ""
+msgstr "<b>... או בחר תמונה שכבר בשימוש:</b>"
 
 #: ../ui/pageTemplate.glade:244
 msgid "<b>Background Color</b>"
-msgstr ""
+msgstr "<b>צבע רקע</b>"
 
 #: ../ui/pageTemplate.glade:257
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>רקע</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr ""
+msgstr "<b>צבע</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
@@ -1706,7 +1706,7 @@ msgstr ""
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
-msgstr ""
+msgstr "אודות Xournal++"
 
 #: ../ui/settings.glade:3787
 msgid "Action on Tool Tap"
@@ -1714,15 +1714,15 @@ msgstr ""
 
 #: ../ui/settings.glade:3250
 msgid "Add additional horizontal space of"
-msgstr ""
+msgstr "הוסף רווח אופקי נוסף של"
 
 #: ../ui/settings.glade:3228
 msgid "Add additional vertical space of"
-msgstr ""
+msgstr "הוסף רווח אנכי נוסף של"
 
 #: ../ui/exportSettings.glade:142
 msgid "All pages"
-msgstr ""
+msgstr "כל הדפים"
 
 #: ../ui/settings.glade:3753
 msgid "All three conditions must be met before stroke is ignored.\n"
@@ -1735,31 +1735,31 @@ msgstr ""
 
 #: ../ui/settings.glade:4187
 msgid "Audio Devices"
-msgstr ""
+msgstr "מכשירי שמע"
 
 #: ../ui/settings.glade:4392
 msgid "Audio Recording"
-msgstr ""
+msgstr "הקלטת שמע"
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
-msgstr ""
+msgstr "מחבר: "
 
 #: ../ui/about.glade:186
 msgid "Authors:"
-msgstr ""
+msgstr "מחברים:"
 
 #: ../ui/settings.glade:1655
 msgid "Autodetect"
-msgstr ""
+msgstr "איתור אוטומטי"
 
 #: ../ui/settings.glade:591
 msgid "Autoloading Journals"
-msgstr ""
+msgstr "טעינה אוטומטית של יומנים"
 
 #: ../ui/settings.glade:348
 msgid "Autosaving"
-msgstr ""
+msgstr "שמירה אוטומטית"
 
 #: ../ui/settings.glade:497
 msgid "Available Placeholders"
@@ -1767,39 +1767,39 @@ msgstr ""
 
 #: ../ui/settings.glade:2159
 msgid "Background color between pages"
-msgstr ""
+msgstr "צבע רקע בין דפים"
 
 #: ../ui/settings.glade:2490
 msgid "Big cursor for pen"
-msgstr ""
+msgstr "סמן גדול בשביל עט"
 
 #: ../ui/settings.glade:2462
 msgid "Border Color"
-msgstr ""
+msgstr "צבע גבול"
 
 #: ../ui/settings.glade:2423
 msgid "Border Width"
-msgstr ""
+msgstr "רוחב הגבול"
 
 #: ../ui/settings.glade:2148
 msgid "Border color"
-msgstr ""
+msgstr "צבע גבול"
 
 #: ../ui/settings.glade:2133
 msgid "Border color for current page and other selections"
-msgstr ""
+msgstr "צבע הגבול של הדף הנוכחי ובחירות אחרות"
 
 #: ../ui/about.glade:127
 msgid "Built on"
-msgstr ""
+msgstr "בנוי על"
 
 #: ../ui/settings.glade:1341
 msgid "Button 1"
-msgstr ""
+msgstr "כפתור 1"
 
 #: ../ui/settings.glade:1379
 msgid "Button 2"
-msgstr ""
+msgstr "כפתור 2"
 
 #: ../ui/settings.glade:2305 ../ui/settings.glade:2448
 msgid "Choose the color to use for \"Highlight cursor position\""
