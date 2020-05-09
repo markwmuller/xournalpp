@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-09 08:24\n"
+"PO-Revision-Date: 2020-05-09 08:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -2438,15 +2438,15 @@ msgstr "כפתורי עט סטיילוס"
 
 #: ../ui/settings.glade:3705
 msgid "Successive (ms)"
-msgstr ""
+msgstr "רציף (מילישניות)"
 
 #: ../ui/main.glade:2072
 msgid "Swap the current page with the one above"
-msgstr ""
+msgstr "החלף את הדף הנוכחי עם זה שמעליו"
 
 #: ../ui/main.glade:2094
 msgid "Swap the current page with the one below"
-msgstr ""
+msgstr "החלף את הדף הנוכחי עם זה שמתחתיו"
 
 #: ../ui/main.glade:840
 msgid "T_oolbars"
@@ -2454,19 +2454,19 @@ msgstr ""
 
 #: ../ui/pagesize.glade:101
 msgid "Template:"
-msgstr ""
+msgstr "תבנית:"
 
 #: ../ui/settings.glade:1793 ../ui/settings.glade:1806
 msgid "Test"
-msgstr ""
+msgstr "בדיקה"
 
 #: ../ui/main.glade:1820
 msgid "Text Font..."
-msgstr ""
+msgstr "גופן טקסט..."
 
 #: ../ui/settings.glade:3092
 msgid "The unit of the ruler is cm"
-msgstr ""
+msgstr "יחידת המידה של הסרגל היא סנטימטרים"
 
 #: ../ui/settings.glade:800
 msgid "These settings take only effect if the experimental input system is activated"
@@ -2474,11 +2474,11 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:113
 msgid "These settings will be used for new pages"
-msgstr ""
+msgstr "יהיה שימוש בהגדרות אלה רק בשביל דפים חדשים"
 
 #: ../ui/settings.glade:653
 msgid "This is an experimental feature! Use it with care."
-msgstr ""
+msgstr "זה פיצ'ר ניסיוני! השתמשו בו בזהירות."
 
 #: ../ui/settings.glade:1640
 msgid "Timeout"
@@ -2487,15 +2487,15 @@ msgstr ""
 #: ../ui/settings.glade:1553 ../ui/settings.glade:2022
 #: ../ui/settingsDeviceClassConfig.glade:46
 msgid "Touchscreen"
-msgstr ""
+msgstr "מסך מגע"
 
 #: ../ui/fillTransparency.glade:14
 msgid "Transparency settings"
-msgstr ""
+msgstr "הגדרות שקיפות"
 
 #: ../ui/settings.glade:3734
 msgid "Try to select object first."
-msgstr ""
+msgstr "נסה לבחור אובייקט קודם."
 
 #: ../ui/settings.glade:3739 ../ui/settings.glade:3769
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
@@ -2503,23 +2503,23 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:273
 msgid "Use the current page size instead of the page size above."
-msgstr ""
+msgstr "השתמש בגודל הדף הנוכחי במקום בגודל הדף העליון."
 
 #: ../ui/settings.glade:3367
 msgid "Usually 0 or 1"
-msgstr ""
+msgstr "בד\"כ 0 או 1"
 
 #: ../ui/about.glade:101
 msgid "Version"
-msgstr ""
+msgstr "גירסה"
 
 #: ../ui/pluginEntry.glade:94
 msgid "Version: "
-msgstr ""
+msgstr "גירסה: "
 
 #: ../ui/settings.glade:2856
 msgid "View"
-msgstr ""
+msgstr "תצוגה"
 
 #: ../ui/settingsButtonConfig.glade:131
 msgid "Whiteout"
@@ -2527,75 +2527,75 @@ msgstr ""
 
 #: ../ui/pagesize.glade:189
 msgid "Width:"
-msgstr ""
+msgstr "רוחב:"
 
 #: ../ui/about.glade:232
 msgid "With help from the community"
-msgstr ""
+msgstr "באמצעות עזרה מהקהילה"
 
 #: ../ui/settings.glade:1991
 msgid "Workaround"
-msgstr ""
+msgstr "מעקף"
 
 #: ../ui/settings.glade:137
 msgid "Xournal++ Preferences"
-msgstr ""
+msgstr "העדפות Xournal++"
 
 #: ../ui/settings.glade:3146
 msgid "Zoom"
-msgstr ""
+msgstr "תקריב"
 
 #: ../ui/settings.glade:1922
 msgid "Zoom Gestures"
-msgstr ""
+msgstr "תנועות תקריב"
 
 #: ../ui/settings.glade:2990
 msgid "Zoom Speed"
-msgstr ""
+msgstr "מהירות תקריב"
 
 #: ../ui/main.glade:633
 msgid "_1 Column"
-msgstr ""
+msgstr "_1 עמודה"
 
 #: ../ui/main.glade:738
 msgid "_1 Row"
-msgstr ""
+msgstr "_1 שורה"
 
 #: ../ui/main.glade:644
 msgid "_2 Columns"
-msgstr ""
+msgstr "_2 עמודות"
 
 #: ../ui/main.glade:749
 msgid "_2 Rows"
-msgstr ""
+msgstr "_2 שורות"
 
 #: ../ui/main.glade:655
 msgid "_3 Columns"
-msgstr ""
+msgstr "_3 עמודות"
 
 #: ../ui/main.glade:760
 msgid "_3 Rows"
-msgstr ""
+msgstr "_3 שורות"
 
 #: ../ui/main.glade:666
 msgid "_4 Columns"
-msgstr ""
+msgstr "_4 עמודות"
 
 #: ../ui/main.glade:771
 msgid "_4 Rows"
-msgstr ""
+msgstr "_4 שורות"
 
 #: ../ui/main.glade:677
 msgid "_5 Columns"
-msgstr ""
+msgstr "_5 עמודות"
 
 #: ../ui/main.glade:782
 msgid "_5 Rows"
-msgstr ""
+msgstr "_5 שורות"
 
 #: ../ui/main.glade:688
 msgid "_6 Columns"
-msgstr ""
+msgstr "_6 עמודות"
 
 #: ../ui/main.glade:793
 msgid "_6 Rows"
@@ -2767,7 +2767,7 @@ msgstr ""
 
 #: ../ui/main.glade:454
 msgid "_View"
-msgstr ""
+msgstr "_תצוגה"
 
 #: ../ui/main.glade:1709
 msgid "_delete strokes"
@@ -2779,15 +2779,15 @@ msgstr ""
 
 #: ../ui/main.glade:1502 ../ui/main.glade:1648 ../ui/main.glade:1757
 msgid "_medium"
-msgstr ""
+msgstr "_בינוני"
 
 #: ../ui/main.glade:1687
 msgid "_standard"
-msgstr ""
+msgstr "_סטנדרטי"
 
 #: ../ui/main.glade:1513 ../ui/main.glade:1659 ../ui/main.glade:1768
 msgid "_thick"
-msgstr ""
+msgstr "_עבה"
 
 #: ../ui/main.glade:1480 ../ui/main.glade:1626 ../ui/main.glade:1735
 msgid "_very fine"
@@ -2799,27 +2799,27 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:159
 msgid "change"
-msgstr ""
+msgstr "שנה"
 
 #: ../ui/exportSettings.glade:223
 msgid "dpi"
-msgstr ""
+msgstr "dpi"
 
 #: ../ui/pluginEntry.glade:130
 msgid "enabled,"
-msgstr ""
+msgstr "מופעל,"
 
 #: ../ui/settings.glade:1246
 msgid "events"
-msgstr ""
+msgstr "אירועים"
 
 #: ../ui/settings.glade:291
 msgid "every"
-msgstr ""
+msgstr "כֹּל"
 
 #: ../ui/pageTemplate.glade:53
 msgid "load from file"
-msgstr ""
+msgstr "טעינה מקובץ"
 
 #: ../ui/settings.glade:318
 msgid "minutes"
