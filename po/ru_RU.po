@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-09 20:15\n"
+"PO-Revision-Date: 2020-05-10 08:07\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -1748,7 +1748,7 @@ msgstr "<i>Используйте пинч жесты для масштабир�
 
 #: ../ui/settings.glade:1192
 msgid "<i>With some setup, pen strokes have artifacts at their beginning. This can be avoided by ignoring the first few events/stroke-points when the pen touches the screen.</i>"
-msgstr ""
+msgstr "<i>При некоторых настройках начальным штрихам могут сопутствовать артефакты. Этого можно избежать, если первые нажатия/события будут игнорироваться.</i>"
 
 #: ../ui/settings.glade:1517
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
@@ -1788,7 +1788,7 @@ msgstr "Все три условия должны быть выполнены, �
 
 #: ../ui/settings.glade:1269
 msgid "Artifact workaround"
-msgstr ""
+msgstr "Обработка артефактов"
 
 #: ../ui/settings.glade:4187
 msgid "Audio Devices"
@@ -2178,7 +2178,7 @@ msgstr "Время игнорирования (мс)"
 
 #: ../ui/settings.glade:1211
 msgid "Ignore the first"
-msgstr ""
+msgstr "Игнорировать первые"
 
 #: ../ui/settings.glade:4130
 msgid "Input Device"
@@ -2875,7 +2875,7 @@ msgstr "включен,"
 
 #: ../ui/settings.glade:1246
 msgid "events"
-msgstr ""
+msgstr "событий(я)"
 
 #: ../ui/settings.glade:291
 msgid "every"
