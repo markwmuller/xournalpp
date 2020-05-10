@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-08 03:50+0000\n"
-"PO-Revision-Date: 2020-05-08 03:55\n"
+"PO-Revision-Date: 2020-05-10 07:25\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -508,7 +508,8 @@ msgstr "Błąd: {1}"
 #: ../src/control/LatexController.cpp:84
 msgid "Error: {1}\n"
 "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "Błąd: {1}\n"
+"Nie znaleziono kpsewhich w PATH; zainstaluj kpsewhich i umieść go w PATH."
 
 #: ../src/control/XournalMain.cpp:170
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
@@ -552,7 +553,7 @@ msgstr "Dalej"
 
 #: ../src/control/XournalMain.cpp:310
 msgid "Get version of xournalpp"
-msgstr ""
+msgstr "Pobierz wersję xournalpp"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:365
 msgid "Go to first page"
@@ -891,7 +892,7 @@ msgstr "Tryb prezentacji"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:320
 msgid "Print"
-msgstr ""
+msgstr "Drukuj"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 msgid "Record Audio / Stop Recording"
@@ -1596,7 +1597,7 @@ msgstr "... ORAZ ile czasu musi upłynąć od ostatniego uderzenia.\n\n"
 
 #: ../ui/settings.glade:1230
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../ui/settings.glade:4325
 msgid "1,00"
