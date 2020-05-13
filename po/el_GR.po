@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-13 07:34\n"
+"PO-Revision-Date: 2020-05-13 21:47\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -2876,7 +2876,7 @@ msgstr "ενεργοποιημένο,"
 
 #: ../ui/settings.glade:1246
 msgid "events"
-msgstr ""
+msgstr "συμβάντα"
 
 #: ../ui/settings.glade:291
 msgid "every"
