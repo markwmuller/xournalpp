@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-15 15:26\n"
+"PO-Revision-Date: 2020-05-15 15:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1877,7 +1877,7 @@ msgstr "Configurer le modèle de page"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Configure new page template"
-msgstr "Configurer nouveau modèle de page"
+msgstr "Configurer le nouveau modèle de page"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
@@ -1885,11 +1885,11 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:268
 msgid "Copy current page size instead"
-msgstr ""
+msgstr "Copier la taille de la page actuelle à la place"
 
 #: ../ui/pageTemplate.glade:191
 msgid "Copy the background of the current page instead of using the background set above."
-msgstr ""
+msgstr "Copiez l'arrière-plan de la page courante au lieu d'utiliser le jeu d'arrière-plan ci-dessus."
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
@@ -2119,7 +2119,7 @@ msgstr "Aller à la page"
 
 #: ../ui/settings.glade:3476
 msgid "Grid size"
-msgstr ""
+msgstr "Taille de la grille"
 
 #: ../ui/settings.glade:3433
 msgid "Grid snapping tolerance"
@@ -2539,7 +2539,7 @@ msgstr "Ces paramètres ne prennent effet que si le système d'entrée expérime
 
 #: ../ui/pageTemplate.glade:113
 msgid "These settings will be used for new pages"
-msgstr ""
+msgstr "Ces paramètres seront utilisés pour les nouvelles pages"
 
 #: ../ui/settings.glade:653
 msgid "This is an experimental feature! Use it with care."
