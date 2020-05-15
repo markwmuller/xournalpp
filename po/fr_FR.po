@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-13 07:25+0000\n"
-"PO-Revision-Date: 2020-05-13 07:34\n"
+"PO-Revision-Date: 2020-05-15 15:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -892,7 +892,7 @@ msgstr "Mode présentation"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:320
 msgid "Print"
-msgstr ""
+msgstr "Imprimer"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 msgid "Record Audio / Stop Recording"
@@ -1597,7 +1597,7 @@ msgstr "... ET combien de temps doit être passé depuis le dernier trait.\n\n"
 
 #: ../ui/settings.glade:1230
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../ui/settings.glade:4325
 msgid "1,00"
@@ -1789,7 +1789,7 @@ msgstr "Toutes les trois conditions doivent être remplies avant que le trait ne
 
 #: ../ui/settings.glade:1269
 msgid "Artifact workaround"
-msgstr ""
+msgstr "Contournement d'artefact"
 
 #: ../ui/settings.glade:4187
 msgid "Audio Devices"
@@ -1877,7 +1877,7 @@ msgstr "Configurer le modèle de page"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Configure new page template"
-msgstr ""
+msgstr "Configurer nouveau modèle de page"
 
 #: ../ui/pageTemplate.glade:186
 msgid "Copy current page background instead"
